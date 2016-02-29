@@ -1,6 +1,6 @@
 {
   "name": "buildinfo-brunch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Build info plugin for brunch",
   "author": {
     "name": "Ian Llewellyn",
