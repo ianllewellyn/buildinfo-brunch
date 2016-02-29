@@ -1,0 +1,19 @@
+{
+  "name": "buildinfo-brunch",
+  "version": "0.0.0",
+  "description": "Build info plugin for brunch",
+  "author": {
+    "name": "Ian Llewellyn",
+    "url": "http://www.ianllewellyn.com/"
+  },
+  "homepage": "https://github.com/ianllewellyn/buildinfo-brunch",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ianllewellyn/buildinfo-brunch.git"
+  },
+  "scripts": {
+    "test": "echo 'no tests'"
+  },
+  "dependencies": {}
+}
