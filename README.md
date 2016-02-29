@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/npm/v/buildinfo-brunch.svg" alt="npm version" height="18">
 <img src="https://img.shields.io/npm/dt/buildinfo-brunc.svg" alt="npm downloads" height="18">
 
-Appends packaging information to your JavaScript.
+Appends build information to your brunch project.
 
 ## Installation
 
